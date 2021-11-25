@@ -1,0 +1,4 @@
+From: #{from}
+To: #{to}
+Subject: #{subject}
+Text: #{text}
